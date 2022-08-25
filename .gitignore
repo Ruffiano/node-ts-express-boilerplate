@@ -1,0 +1,46 @@
+node_modules
+dist/
+lib/
+package-lock.json
+yarn.lock
+swarm.key
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variables file
+.env
+.env.example
+
+# OS X temporary files
+.DS_Store
+
+### IPFS ###
+.ipfs
+
+### VisualStudioCode ###
+.vscode
+
+#jetbraines
+.idea
+
+### Linux ###
+*~
+
+# Output of 'npm pack'
+*.tgz
+
+# Logs
+*.log
+npm-debug.log*
+
+coverage/
+
+.npmrc
+.npmignore
+
+.item/
+
+config
